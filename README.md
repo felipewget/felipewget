@@ -1,6 +1,6 @@
 ### Hi unknown person, welcome to my profile 👋
 #### Developing software is more than writing code, it's turning an idea into a solution that helps other people.
-```This is my personal repo, here there are some small pubic projects that I developed and a little about my history```
+```This is my personal repo, here there are some small public projects that I developed and a little about my history```
 
 📓 I’m currently learning Golang (https://github.com/felipewget/estudos-de-go)<br />
 👯 I’m looking to collaborate on innovative projects that present challenges and help improve the reality of other people<br />
